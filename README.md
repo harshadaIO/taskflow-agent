@@ -1,6 +1,6 @@
 # ⚡ TaskFlow AI: Autonomous Operations Agent
 
-> **TaskFlow AI** is an autonomous, multi-tool operations agent built using **Google's Agent Development Kit (ADK)** and powered by **Gemini**. It turns messy, unstructured natural language requests into structured business execution automatically extracting data, logging records to a database, and dispatching communications.
+> **TaskFlow AI** is an autonomous, multi-tool operations agent built using **Google's Agent Development Kit (ADK)** and powered by ****. It turns messy, unstructured natural language requests into structured business execution automatically extracting data, logging records to a database, and dispatching communications.
 
 ---
 
